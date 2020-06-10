@@ -11,7 +11,7 @@ function getRandomInteger (minimum, maximum) {
 }
 
 // Povided Arrays
-const nouns = ['dragons', 'toasters']
+const nouns = ['dragons', 'toasters', 'bread']
 
 const verbs = ['walked', 'ran']
 
